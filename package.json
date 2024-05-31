@@ -1,6 +1,6 @@
 {
   "name": "@cyware/dependency-example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Example dependency when we need to explain packaging",
   "author": "Cyware Labs. <security@khulnasoft.com>",
   "license": "MIT",
